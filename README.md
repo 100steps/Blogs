@@ -4,6 +4,7 @@
 
 ### 目录
 
+* [git的分支管理策略](https://github.com/100steps/Blogs/issues/19)
 * [数据结构 Trie 字典树](https://github.com/100steps/Blogs/issues/17)
 * [交互设计新体验——Adobe Experience Design](https://github.com/100steps/Blogs/issues/16)
 * [实用view视图](https://github.com/100steps/Blogs/issues/14)
