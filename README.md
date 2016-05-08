@@ -4,6 +4,7 @@
 
 ### 目录
 
+* [浅谈游戏脚本系统](https://github.com/100steps/Blogs/issues/27)
 * [MicroData](https://github.com/100steps/Blogs/issues/26)
 * [测试－内存泄露](https://github.com/100steps/Blogs/issues/24)
 * [亲测Rokon引擎感想](https://github.com/100steps/Blogs/issues/23)
