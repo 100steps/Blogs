@@ -4,6 +4,8 @@
 
 ### 目录
 
+* [关于react的一点东西](https://github.com/100steps/Blogs/issues/30)
+* [哈希表工作原理与应用学习笔记](https://github.com/100steps/Blogs/issues/28)
 * [浅谈游戏脚本系统](https://github.com/100steps/Blogs/issues/27)
 * [MicroData](https://github.com/100steps/Blogs/issues/26)
 * [测试－内存泄露](https://github.com/100steps/Blogs/issues/24)
