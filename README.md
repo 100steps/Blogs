@@ -4,6 +4,7 @@
 
 ### 目录
 
+* [canvas性能优化](https://github.com/100steps/Blogs/issues/36)
 * [Android Studio Plugin使用](https://github.com/100steps/Blogs/issues/33)
 * [计算机网络几个基础的点（线下分享の附属品）](https://github.com/100steps/Blogs/issues/32)
 * [关于react的一点东西](https://github.com/100steps/Blogs/issues/30)
