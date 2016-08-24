@@ -4,6 +4,13 @@
 
 ### 目录
 
+* [关于浏览器内核](https://github.com/100steps/Blogs/issues/45)
+* [谈谈很厉害的flexbox](https://github.com/100steps/Blogs/issues/44)
+* [验证码识别](https://github.com/100steps/Blogs/issues/43)
+* [Android自定义控件](https://github.com/100steps/Blogs/issues/42)
+* [职业指导 -- 前端工程师入门](https://github.com/100steps/Blogs/issues/41)
+* [数据库事务处理](https://github.com/100steps/Blogs/issues/40)
+* [Activity生命周期](https://github.com/100steps/Blogs/issues/39)
 * [关于前端性能优化](https://github.com/100steps/Blogs/issues/38)
 * [canvas性能优化](https://github.com/100steps/Blogs/issues/36)
 * [Android Studio Plugin使用](https://github.com/100steps/Blogs/issues/33)
