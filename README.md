@@ -4,6 +4,7 @@
 
 ### 目录
 
+* [cocos2d-x制作高仿2048游戏](https://github.com/100steps/Blogs/issues/46)
 * [关于浏览器内核](https://github.com/100steps/Blogs/issues/45)
 * [谈谈很厉害的flexbox](https://github.com/100steps/Blogs/issues/44)
 * [验证码识别](https://github.com/100steps/Blogs/issues/43)
